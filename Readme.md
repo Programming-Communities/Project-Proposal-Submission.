@@ -265,10 +265,16 @@
 
 ---
 
+
+----------------------------------------------------------------------------------------------------------
+
+
 # with Next js and PostgreSQL
 
 
+
 **Generative AI (Gen AI)** and **Agentic AI** applications, while utilizing **Next.js** for the frontend and **PostgreSQL** for data storage. The AI integration is included as well.
+
 
 ---
 
